@@ -23,5 +23,5 @@ public static void main(String args[]) {
 		pc.show();
 	}
 #四.实验结果
-
-![实验二](https://github.com/wangruifengwrf/Java-/blob/main/%E5%AE%9E%E9%AA%8C%E4%BA%8C.png)
+![程序运行结果](https://github.com/3256268435/Java-/blob/main/%E7%A8%8B%E5%BA%8F%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C.png)
+#五.实验感想
